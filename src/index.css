@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-oklch-100 {
+    background-color: oklch(0.627 0.194 149.214);
+  }
+  .bg-oklch-200 {
+    background-color: oklch(0.871 0.15 154.449);
+  }
+  .bg-oklch-300 {
+    background-color: oklch(0.393 0.095 152.535);
+  }
+}
+
+
+
